@@ -1,0 +1,29 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Pp]ackages/
+[Aa]ssets/AssetStoreTools*/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+# Visual Studio Code
+.vscode/
+# Logs
+*.log
+# Crashlytics generated files
+crashlytics-build.properties
+# Auto-generated for Unreal (if present)
+[Bb]inaries/
+[Ii]ntermediate/
+
