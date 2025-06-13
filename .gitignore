@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Swift/SwiftUI
+DerivedData/
+*.xcuserstate
+
+# Unity
+Library/
+Temp/
+Logs/
+obj/
+Build/
